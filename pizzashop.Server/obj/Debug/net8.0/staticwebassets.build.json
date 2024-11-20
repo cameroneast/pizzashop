@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "rhAC2Usw4K7rZ9GQ+e7o34UQx/oE2kROOKdjWZ/8nzI=",
+  "Source": "pizzashop.Server",
+  "BasePath": "_content/pizzashop.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\camer\\Projects\\pizzashop\\pizzashop.client\\pizzashop.client.esproj",
+      "Version": 2,
+      "Source": "pizzashop.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
