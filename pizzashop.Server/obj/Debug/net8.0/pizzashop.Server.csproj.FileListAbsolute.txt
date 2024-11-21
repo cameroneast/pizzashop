@@ -37,3 +37,6 @@ C:\Users\camer\Projects\pizzashop\pizzashop.Server\obj\Debug\net8.0\refint\pizza
 C:\Users\camer\Projects\pizzashop\pizzashop.Server\obj\Debug\net8.0\pizzashop.Server.pdb
 C:\Users\camer\Projects\pizzashop\pizzashop.Server\obj\Debug\net8.0\pizzashop.Server.genruntimeconfig.cache
 C:\Users\camer\Projects\pizzashop\pizzashop.Server\obj\Debug\net8.0\ref\pizzashop.Server.dll
+C:\Users\camer\Projects\pizzashop\pizzashop.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\camer\Projects\pizzashop\pizzashop.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\camer\Projects\pizzashop\pizzashop.Server\obj\Debug\net8.0\pizzashop.Server.sourcelink.json
