@@ -1,15 +1,15 @@
 {
   "Version": 1,
-  "Hash": "rhAC2Usw4K7rZ9GQ+e7o34UQx/oE2kROOKdjWZ/8nzI=",
-  "Source": "pizzashop.Server",
-  "BasePath": "_content/pizzashop.Server",
+  "Hash": "blqbRNmUws527PAxQBjk5zTjb2cthj+BEjR3p/CvdHg=",
+  "Source": "pizzashop.backend",
+  "BasePath": "_content/pizzashop.backend",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\camer\\Projects\\pizzashop\\pizzashop.client\\pizzashop.client.esproj",
+      "Identity": "C:\\Users\\camer\\Projects\\pizzashop\\pizzashop.client\\pizzashop.frontend.esproj",
       "Version": 2,
-      "Source": "pizzashop.client",
+      "Source": "pizzashop.frontend",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
       "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",

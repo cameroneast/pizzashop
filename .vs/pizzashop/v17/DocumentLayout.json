@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\camer\\Projects\\pizzashop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F93BB1C3-A4FD-4745-A564-013D05DA3861}|pizzashop.client\\pizzashop.client.esproj|c:\\users\\camer\\projects\\pizzashop\\pizzashop.client\\pizzashop.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F93BB1C3-A4FD-4745-A564-013D05DA3861}|pizzashop.client\\pizzashop.client.esproj|solutionrelative:pizzashop.client\\pizzashop.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2D68B70E-1A1D-4578-9380-AF7C3BE38A56}|pizzashop.Server\\pizzashop.backend.csproj|c:\\users\\camer\\projects\\pizzashop\\pizzashop.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D68B70E-1A1D-4578-9380-AF7C3BE38A56}|pizzashop.Server\\pizzashop.backend.csproj|solutionrelative:pizzashop.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D68B70E-1A1D-4578-9380-AF7C3BE38A56}|pizzashop.Server\\pizzashop.Server.csproj|c:\\users\\camer\\projects\\pizzashop\\pizzashop.server\\pizzashop.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2D68B70E-1A1D-4578-9380-AF7C3BE38A56}|pizzashop.Server\\pizzashop.Server.csproj|solutionrelative:pizzashop.server\\pizzashop.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2D68B70E-1A1D-4578-9380-AF7C3BE38A56}|pizzashop.Server\\pizzashop.backend.csproj|c:\\users\\camer\\projects\\pizzashop\\pizzashop.server\\pizzashop.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D68B70E-1A1D-4578-9380-AF7C3BE38A56}|pizzashop.Server\\pizzashop.backend.csproj|solutionrelative:pizzashop.server\\pizzashop.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93BB1C3-A4FD-4745-A564-013D05DA3861}|pizzashop.client\\pizzashop.frontend.esproj|c:\\users\\camer\\projects\\pizzashop\\pizzashop.client\\pizzashop.frontend.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F93BB1C3-A4FD-4745-A564-013D05DA3861}|pizzashop.client\\pizzashop.frontend.esproj|solutionrelative:pizzashop.client\\pizzashop.frontend.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,11 +27,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "pizzashop.client",
-              "DocumentMoniker": "C:\\Users\\camer\\Projects\\pizzashop\\pizzashop.client\\pizzashop.client.esproj",
-              "RelativeDocumentMoniker": "pizzashop.client\\pizzashop.client.esproj",
-              "ToolTip": "C:\\Users\\camer\\Projects\\pizzashop\\pizzashop.client\\pizzashop.client.esproj",
-              "RelativeToolTip": "pizzashop.client\\pizzashop.client.esproj",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\camer\\Projects\\pizzashop\\pizzashop.Server\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "pizzashop.Server\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\camer\\Projects\\pizzashop\\pizzashop.Server\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "pizzashop.Server\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:20:06.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pizzashop.client.esproj",
+              "DocumentMoniker": "C:\\Users\\camer\\Projects\\pizzashop\\pizzashop.client\\pizzashop.frontend.esproj",
+              "RelativeDocumentMoniker": "pizzashop.client\\pizzashop.frontend.esproj",
+              "ToolTip": "C:\\Users\\camer\\Projects\\pizzashop\\pizzashop.client\\pizzashop.frontend.esproj",
+              "RelativeToolTip": "pizzashop.client\\pizzashop.frontend.esproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-11-21T00:19:30.584Z",
@@ -36,12 +53,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "pizzashop.Server",
-              "DocumentMoniker": "C:\\Users\\camer\\Projects\\pizzashop\\pizzashop.Server\\pizzashop.Server.csproj",
-              "RelativeDocumentMoniker": "pizzashop.Server\\pizzashop.Server.csproj",
-              "ToolTip": "C:\\Users\\camer\\Projects\\pizzashop\\pizzashop.Server\\pizzashop.Server.csproj",
-              "RelativeToolTip": "pizzashop.Server\\pizzashop.Server.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "pizzashop.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\camer\\Projects\\pizzashop\\pizzashop.Server\\pizzashop.backend.csproj",
+              "RelativeDocumentMoniker": "pizzashop.Server\\pizzashop.backend.csproj",
+              "ToolTip": "C:\\Users\\camer\\Projects\\pizzashop\\pizzashop.Server\\pizzashop.backend.csproj",
+              "RelativeToolTip": "pizzashop.Server\\pizzashop.backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-21T00:19:28.718Z",
               "EditorCaption": ""
